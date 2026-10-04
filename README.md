@@ -9,21 +9,6 @@ A professional portfolio website showcasing projects, experience, and skills as 
 - **JavaScript** — Programming language
 - **CSS** — Styling
 
-## Project Structure
-portfolio/
-├── public/
-├── src/
-│ ├── components/ # React components
-│ ├── data/ # Data files (projects, experience, skills)
-│ ├── styles/ # CSS styles
-│ ├── App.jsx
-│ └── main.jsx
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
-
-
 ## Installation
 
 1. Clone the repository:
